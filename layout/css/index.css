@@ -193,6 +193,7 @@ font-size: 50px;
 		width: 400px;
 		height: 315px;
 	}
+
 }
 
 .home-stats .stat {
@@ -250,6 +251,16 @@ font-size: 50px;
 	.maplist {
 		width: 100%;
 		margin: 0;
+	}
+	.appele{
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		margin:auto;
+		align-items: center;
+	}
+	.carte{
+		margin-top: 20px;
 	}
 }
 
