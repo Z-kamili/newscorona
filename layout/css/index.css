@@ -17,7 +17,7 @@ body {
 /* Start Navbar */
 .menu{
 	background-color:  #1078ad !important;
-	position: fixed;
+height:60px;
 }
 .navbar-shadow {
 	background-color: rgba(0, 123, 255, 0.5);
@@ -101,7 +101,7 @@ body {
 }
 
 .nav-link {
-	font-size: 25px !important;
+	font-size: 20px !important;
 }
 
 /* Start Bootstrap Edits */
@@ -380,7 +380,7 @@ font-size: 50px;
 	margin-top: 40px;
 }
 .globale{
-	margin-top: 40px !important;
+	margin-top: 74px !important;
 }
 
 /*Start spinner Loading */
