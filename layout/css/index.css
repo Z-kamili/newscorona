@@ -25,7 +25,7 @@ height:60px;
 	transition: .5s
 }
 .text{
-	width: 100%;
+    width: 100%;
     font-size: 2.5em;
     font-weight: 900;
     text-align: justify;
@@ -33,6 +33,7 @@ height:60px;
     text-align-last: center;
     color: #1078ad;
     margin-bottom: 30px;
+    margin-top: -14px;
 }
 .img-block{
 	display: block;
@@ -193,6 +194,7 @@ font-size: 50px;
 		width: 400px;
 		height: 315px;
 	}
+
 
 }
 
