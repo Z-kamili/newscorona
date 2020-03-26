@@ -91,6 +91,9 @@ body {
     transform: rotate(-1deg);
     font-size: 55px;
 }
+.card-body{
+	margin-top: 30px;
+}
 
 .img-fluid {
     max-width: 45%;
